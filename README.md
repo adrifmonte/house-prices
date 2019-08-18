@@ -13,5 +13,4 @@ Run `jupyter notebook` on the cloned project's root directory.
 
 Jupyter will automatically be opened on your browser at `localhost:8888/`.
 
-Select `house-prices.ipynb` to open the project.
-
+Select `house-prices.ipynb` to open the project, and `house-prices-part-2.ipynb` for the final part of the project.
